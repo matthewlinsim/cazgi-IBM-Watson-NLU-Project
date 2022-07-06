@@ -15,8 +15,8 @@ variables that you set up in the .env file*/
 // const dotenv = require('dotenv');
 // dotenv.config();
 
- const api_key = process.env.API_KEY;
- const api_url = process.env.API_URL;
+ const api_key = "SMehrIvIUVBJWtbRRAp31qVeqciHaJENyZR5O430IPrd";
+ const api_url = "https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/f24f550b-8eea-44ef-86bd-1ba79945ee9d";
 
 function getNLUInstance() {
     /*Type the code to create the NLU instance and return it.
